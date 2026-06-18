@@ -1,0 +1,5 @@
+Repositorio: Es una librería o carpeta donde se almacena y organiza el código fuente de algún proyecto que estés realizando junto a su historial de versiones, permitiéndote actualizarlo cada que lo necesites, o volver a una versión pasada. Un repositorio permite que una o varias personas trabajen en el mismo proyecto y gestionen versiones del código.
+
+Commit: A través de esto podemos registrar o hacer una "captura" de los cambios realizados en los archivos de un repositorio en un momento determinado que aun no han sido subidos. Cuando haces un commit, se debe ingresar un pequeño mensaje que describa la naturaleza de los cambios que se realizaron para permitir una fácil identificación del cambio cuándo este subido en el repositorio de GitHub.
+
+Push: Es uno de los comandos integrados en la herramienta Git, que permite enviar el commit realizado sobre cambios no registrados del repositorio local a un repositorio remoto alojado en GitHub, para así poder guardar los cambios en la nube de GitHub y versionar el código fuente del proyecto, ya que cada que se pushea un commit se produce un cambio en el repositorio remoto.
