@@ -1,0 +1,5 @@
+Que hace la ruta "/reporte"?
+Respuesta: La ruta "/reporte" se encarga de recibir una peticion POST de tipo JSON que viene de algun otro formulario, y se encarga de leerla en el campo mensaje y la envia a la ruta "/reporte" para que se muestre en la pagina.
+
+Para que podria servir en una aplicacion comunitaria?
+Respuesta: En una aplicacion comunitaria, la ruta "/reporte" podria servir para que los usuarios puedan reportar problemas o sugerencias que tengan con la comunidad, para que luego sean leidas por los administradores de la comunidad y se pueda tomar alguna accion.

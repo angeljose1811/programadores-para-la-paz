@@ -1,0 +1,8 @@
+Ruta ("/"):
+Se muestra un mensaje en la pagina que dice: "Servidor activo".
+
+Ruta ("/saludo"):
+Se muestra un mensaje en la pagina que dice: "Hola comunidad".
+
+Ruta("/mensaje/juan"):
+Se muestra un mensaje en la pagina que dice: "Hola juan", tomando el nombre del parametro escrito en la ruta.
