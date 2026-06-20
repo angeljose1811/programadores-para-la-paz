@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Cuando consultas los reportes mediante una solicitud GET aparece el siguiente formato JSON, estructurado como un array de objetos JSON,
+ya que cada reporte se guarda en un array en el archivo server.js que posteriormente se manda al consultarlo mediante GET.

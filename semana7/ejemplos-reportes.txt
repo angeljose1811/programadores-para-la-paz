@@ -1,0 +1,12 @@
+Ejemplo 1:
+{
+    "tipo":"Seguridad",
+    "descripcion":"Reja principal del conjunto dañada."
+}
+
+Ejemplo 2:
+{
+    "tipo":"Social",
+    "descripcion":"Produccion de contaminacion auditiva a altas horas de la noche."
+
+}
