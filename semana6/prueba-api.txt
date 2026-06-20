@@ -1,0 +1,9 @@
+Respuesta devuelta:
+{
+    "estado": "Datos recibidos",
+    "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+}
+
+Devuelve un objeto JSON, parecido al que inicialmente se envio, pero con un nuevo campo "estado" con valor de "Datos recibidos".
+Indicando asi que los datos han sido recibidos correctamente.

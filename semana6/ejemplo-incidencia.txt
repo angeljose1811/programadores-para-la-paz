@@ -1,0 +1,4 @@
+{
+    "tipo":"Seguridad",
+    "descripcion": "La comunidad reporta que hace poco intentaron robar a un vecino en la calle #32"
+}
