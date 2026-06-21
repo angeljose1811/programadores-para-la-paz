@@ -1,0 +1,14 @@
+Sistema operativo:
+El sistema operativo es un programa complejo predeterminado en cada dispositivo electrónico, y es el que se encarga de administrar el correcto funcionamiento del hardware y otras funciones del dispositivo a través del software. 
+
+Node.js:
+Es una herramienta para JavaScript que permite levantar un servidor en el que podemos ejecutar nuestras apps, esto nos facilita el trabajo ya que también nos permite usar herramientas como Express para nuestras plataformas.
+
+Aplicación server.js:
+Este es un archivo JavaScript que se crea cada que queramos usar node.Js para configurar el servidor, definiendo en ella las rutas y como se comportara el servidor.
+
+Puerto:
+Estos representan puertas de entrada en el sistema operativo que permiten la comunicación y el intercambio de información de datos a través de la red. En nuestro caso, usamos el #3000 para alojar allí nuestros servidores.
+
+Logs:
+Son registros que se producen en la terminal con el funcionamiento de nuestra aplicación, y en ella podemos ver los errores cuando ocurran o mandar información directamente para monitorear el comportamiento de nuestra aplicación.

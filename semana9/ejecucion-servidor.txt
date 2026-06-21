@@ -1,0 +1,14 @@
+¿Qué ocurre cuando ejecutas node server.js?
+Cuando ejecutas este comando se da inicio al funcionamiento del servidor, que de acuerdo al codigo de server.js se va a ejecutar en el puerto local 3000.
+
+¿Qué mensaje aparece en la terminal?
+"Servidor ejecutándose en puerto 3000"
+Aparece este mensaje porque es el que configuramos en app.listen, de manera que cada vez que se ejecuta el servidor se manda dicho mensaje por la terminal.
+
+¿Qué sucede cuando visitas la ruta /estado?
+Cuando se visita la ruta estado aparece un objeto JSON con la siguiente forma:
+{
+    "estado": "Servidor funcionando",
+    "servicio": "API comunitaria"
+}
+Este objeto JSON es mandado por medio del servidor y el metodo res.json en la ruta /estado configurada en server.js
