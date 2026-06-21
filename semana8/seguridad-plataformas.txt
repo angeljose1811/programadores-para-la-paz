@@ -1,0 +1,5 @@
+1. Proteger datos personales de los uauarios.
+2. Hacer copias de seguridad.
+3. Administrar credenciales y permisos para los usuarios.
+4. Usar conexiones seguras.
+5. Validar informacion que registran los usuarios.

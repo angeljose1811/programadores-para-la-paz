@@ -1,0 +1,7 @@
+Comando uname -a:
+Muestra diferente informacion acerca del equipo que estamos usando, desde el tipo de nucleo, arquitectura del procesador, nombre del equipo, sistema operativo, e informacion acerca del kernel como su fecha de publicacion.
+
+Comando whoami:
+Muestra el usuario que se este usando en este momento en el equipo.
+
+Cuando estamos administrando un servidor es muy util conocer informacion acerca del sistema, ya que nos permite estar pendiente de como lo usemos dependiendo de sus especificaciones, asi como tener en cuenta como configurarlo mediante dicha informacion.
