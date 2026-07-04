@@ -1,0 +1,4 @@
+1. Como administrador quiero que la aplicacion sea mas segura.
+2. Como ciudadano quiero registrar una incidencia.
+3. Como usuario quiero que la aplicacion sea mas facil de usar.
+4. Como miembro del equipo de desarrollo quiero que la aplicacion sea mas rapida.

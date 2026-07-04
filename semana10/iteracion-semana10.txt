@@ -1,0 +1,10 @@
+Las tareas que haria primero son:
+
+1. Como administrador quiero que la aplicacion sea mas segura:
+
+2. Como usuario quiero que la aplicacion sea mas facil de usar.
+
+Las considero las mas importantes debido a que en la primera se presenta un peligro potencial para la seguridad de los usuarios, y en la segunda se presenta una situacion inconveniente. Y si bien velar por la rapidez como en la tarea 4, me parece mas necesario priorizar la seguridad y la facilidad de uso.
+
+Que una tarea este terminada significa que ya se ha completado su funcionalidad, de manera que fue probada que funcione correctamente, que ademas fue revisada, y aceptada por algun otro miembro del equipo, y posteriormente registrada en el sistema y en Git en caso de ser necesario.
+

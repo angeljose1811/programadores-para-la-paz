@@ -1,0 +1,9 @@
+Evento: Reunion programada correctamente.
+
+Acción que activa el flujo: Enviar formulario en la plataforma. 
+
+Accion en respuesta: Enviar mensaje a Telegram.
+
+Mensaje: "Reunion programada correctamente. Estara programada para la fecha [fecha] en el [lugar]."
+
+Información que no debe enviarse: Nombres completos, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.
