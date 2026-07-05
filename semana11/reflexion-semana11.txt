@@ -1,0 +1,6 @@
+Una plataforma tecnológica debe tener base de datos, autenticación y proteger la información, ya que estas 
+herramientas aseguran la confianza de la comunidad en la plataforma, ya que a través de la base de datos se asegura la
+trazabilidad al guardarse los registros de los usuarios en un lugar seguro, información que debe ser debidamente 
+protegida evitando que cualquier persona pueda acceder a ella, de manera que, solo pueda acceder aquellas personas que
+estén a cargo de la plataforma, evitando así filtraciones que pongan en peligro información sensible de los 
+ciudadanos.

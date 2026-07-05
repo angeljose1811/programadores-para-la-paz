@@ -1,0 +1,8 @@
+El login de una aplicacion es la funcion que permite a la paltaforma identificar a un usuario de acuerdo a un 
+nombre y contraseña, permitiendo administrar los permisos que debe tener de acuerdo a su rol.
+
+Algunas rutas deben estar protegidas ya que estos pueden ser rutas exclusivas para ciertos roles, por lo que no todas 
+los usuarios deberian ver dicha informacion, ademas, estas rutas podrian ser APIs que transmiten informacion, por lo 
+que acceder a ellas alteraria el flujo de informacion y podria ser vulnerable.
+
+No deberian exponerse informacion personal como: contraseñas, documento de identidad, direcciones, tokens, datos sensibles ni API keys.

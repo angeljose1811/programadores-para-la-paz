@@ -1,0 +1,24 @@
+Entidad: Usuarios
+
+Campos principales:
+- id
+- nombre
+- email
+- contraseña
+- rol
+
+Propósito:
+Guardar los usuarios que se registran en la plataforma comunitaria.
+
+
+Entidad: Solicitudes
+
+Campos principales:
+- id
+- usuario_id
+- estado
+- descripcion
+- fecha
+
+Propósito:
+Registrar las solicitudes realizadas por los usuarios para ser aprobadas, rechazadas o revisadas.

@@ -1,0 +1,8 @@
+La interfaz de la plataforma debe ser sencilla y clara, permitiendo navegar por ella de manera intuitiva sin cansar al usuario.
+
+Este tendria principalmente un formulario a traves del cual crearias una causa con los campos de: titulo, descripcion,
+fecha. Junto con un boton para enviar dicho registro.
+
+Por otro lado, deberia haber una lista de todas las causas registradas hasta el momento con un contador de las 
+personas que la han apoyado hasta el momento, con un boton justo debajo que te permita apoyar la causa, de manera que,
+al apoyar a una causa se aumente el contador.
