@@ -1,0 +1,9 @@
+1. Un ciudadano crea una causa
+2. La informacion de la causa es enviada a la base de datos
+3. La causa es registrada
+4. La pagina es actualizada con la nueva causa
+5. Un ciudadano apoya la causa
+6. La informacion del apoyo es enviada a la base de datos
+7. El apoyo es registrado
+8. La pagina es actualizada con el apoyo y se aumenta el contador
+9. Se genera un pdf con el resumen de los apoyos e informacion de la causa
