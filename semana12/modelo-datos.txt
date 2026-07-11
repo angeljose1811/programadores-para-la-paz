@@ -1,0 +1,24 @@
+Usuario
+id
+nombre
+apellido
+fecha-registro
+
+// El modelo usuario sirve para registrar a cada usuario con un id unico registrando su nombre, apellido y la fecha en que se registro para validar.
+
+Causa
+id
+titulo
+descripcion
+fecha
+
+// El modelo Causa es creado para registrar una causa con un titulo, descripcion y un id unico de manera que pueda recibir apoyos. La relacion es de: una causa -> varios apoyos.
+
+Apoyo
+id
+user_id
+causa_id
+nombre
+fecha
+
+//El modelo Apoyos permite registrar el apoyo de un usuario a una causa mediante un nombre y fecha, ademas del id del usuario y de la causa, y un id unico que represente el apoyo en si mismo. La relacion es de: Un apoyo -> Una causa
